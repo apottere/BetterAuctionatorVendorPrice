@@ -1,0 +1,7 @@
+## Interface: 11302
+
+## Title: BetterAuctionatorVendorPrice
+## Author: apottere
+## Version: 1.0
+
+BetterAuctionatorVendorPrice.lua
